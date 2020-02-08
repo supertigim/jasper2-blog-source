@@ -19,17 +19,6 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
     <style>.hljs { background: none; }</style>
 
-    <!--[if IE]>
-        <style>
-            p, ol, ul{
-                width: 100%;
-            }
-            blockquote{
-                width: 100%;
-            }
-        </style>
-    <![endif]-->
-    
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     {% include head.html %}
 
@@ -58,7 +47,7 @@
         <!-- The footer at the very bottom of the screen -->
         <footer class="site-footer outer">
             <div class="site-footer-content inner">
-                <section class="copyright"><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a> &copy; {{  site.time | date: '%Y' }}</section>
+                <section class="copyright"><a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a> &copy; {{  site.time | date: '%Y' }}</section>
                 <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
                     <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
                     <a href="https://github.com/jekyller/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
@@ -66,7 +55,7 @@
                     <a href="{{ site.baseurl }}">Latest Posts</a>
                     {% if site.facebook %}<a href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>{% endif %}
                     {% if site.twitter %}<a href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">Twitter</a>{% endif %}
-                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
+                    <a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
                 </nav>
             </div>
         </footer>
@@ -81,8 +70,8 @@
                 {% if site.logo %}
                     <img class="subscribe-overlay-logo" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}" />
                 {% endif %}
-                <h1 class="subscribe-overlay-title">Subscribe to {{ site.title }}</h1>
-                <p class="subscribe-overlay-description">Stay up to date! Get all the latest &amp; greatest posts delivered straight to your inbox</p>
+                <h1 class="subscribe-overlay-title">Search {{ site.title }}</h1>
+                <p class="subscribe-overlay-description">posts</p>
                 {% include subscribe-form.html placeholder="youremail@example.com" %}
             </div>
         </div>
