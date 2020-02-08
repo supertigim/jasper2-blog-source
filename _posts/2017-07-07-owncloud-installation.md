@@ -1,6 +1,7 @@
 --- 
 layout: post  
 title: 도커로 owncloud 설치하기    
+cover: assets/images/owncloud-ui-login.png
 tags: technology      
 class: post-template
 subclass: 'post tag-technology'

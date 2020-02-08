@@ -1,6 +1,7 @@
 --- 
 layout: post  
 title: 캐나다 IT 잡 인터뷰 관련    
+cover: assets/images/self-taught-sw-engineering.png
 tags: canada 
 class: post-template
 subclass: 'post tag-canada'      

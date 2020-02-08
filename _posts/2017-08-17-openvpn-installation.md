@@ -1,6 +1,7 @@
 --- 
 layout: post  
 title: (번역) docker로 openvpn 설치 하기  
+cover: assets/images/openvpn-docker.png
 tags: technology
 class: post-template
 subclass: 'post tag-technology'  

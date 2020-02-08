@@ -1,6 +1,7 @@
 --- 
 layout: post  
-title: 파이썬 입문      
+title: 파이썬 입문     
+cover: assets/images/Introduction-To-Python-1.jpg 
 tags: technoloyg   
 class: post-template
 subclass: 'post tag-technology'   

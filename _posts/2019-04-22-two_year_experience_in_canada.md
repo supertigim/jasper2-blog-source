@@ -1,10 +1,13 @@
 --- 
 layout: post  
+current: post
 title: 캐나에서 2년 생활 회고    
+cover: assets/images/detroit-from-windsor.jpg
+navigation: True
 tags: canada
 class: post-template
 subclass: 'post tag-canda'       
-excerpt: Canada 이민 - 준비부터 입국/랜딩까지...   
+date: 2019-04-22 00:00:01
 author: tigim          
 ---  
 

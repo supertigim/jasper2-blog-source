@@ -1,10 +1,13 @@
 --- 
 layout: post  
-title: 분산 메시지 브로커 Kafka    
+current: post
+title: 분산 메시지 브로커 Kafka 설치 및 간단한 예제     
+cover: assets/images/kafka-apis.png 
+navigation: True
 tags: technology
 class: post-template
 subclass: 'post tag-canada'       
-excerpt: 카프카 설치 및 간단한 예제   
+date: 2019-04-11 00:00:01
 author: tigim         
 ---  
 
