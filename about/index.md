@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-Hi there! I am Jong Yoon Kim and I am a IT enthusiast with more than 10 years of various experiences. 
+Hi there! I am Jong Yoon Kim and I am a IT enthusiast with various experiences. 
 
 > 최소한의 인류 보편적인 가치는 지키며, 세상에서 가장 제멋대로 살고 싶은 사람의 인생 여행기.  
   

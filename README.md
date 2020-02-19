@@ -64,6 +64,14 @@ are generated for you and pushed to *gh-pages*. Also you get to know if everythi
 still fine with your site builds. Don't hesitate to contact me if you still have any
 issues (see below about issue tracking).
 
+```
+    # 테스트   
+    bundle exec jekyll serve  
+
+    # 빌드   
+    bundle exec jekyll build  
+```
+
 ### Author Pages
 
 In order to properly generate author pages you need to rename the field *author* in the
