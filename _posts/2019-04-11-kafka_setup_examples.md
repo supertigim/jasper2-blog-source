@@ -6,7 +6,7 @@ cover: assets/images/kafka-apis.png
 navigation: True
 tags: technology
 class: post-template
-subclass: 'post tag-canada'       
+subclass: 'post tag-technology'       
 date: 2019-04-11 00:00:01
 author: tigim         
 ---  
