@@ -11,10 +11,10 @@ date: 2019-03-11 00:00:01
 author: tigim         
 ---  
 
-Autonomous Navigation 부터 Fleet Management 시스템까지 패스파인딩 알고리즘이 안들어가는데 없다. 지금까지 검토한 내용 정리 해보자. 
+Autonomous Navigation 부터 Fleet Management 시스템까지 길찾기 알고리즘이 안들어가는데가 없다. 지금까지 검토한 내용 정리 해보자. 
 
-Single-Agent Pathfindings     
-==========================      
+Single-Agent Pathfinding     
+=========================      
 
 **[A* Algorithm]**
 
@@ -47,13 +47,13 @@ A* 가 다좋은데, 문제가 하나 있다면 최적의 길찾기를 하다 �
 - [CS553 Distributed Algorithms](https://www.cs.uic.edu/~ajayk/SelfStabilization.pdf)  
 - [Distributed Shortest Paths Algorithms](https://www.cs.rit.edu/~ark/winter2012/730/team/1/presentation2.pdf)
 
-Multi-Agent Pathfindings  
-=========================    
+Multi-Agent Pathfinding  
+========================    
 
 
 **[WHCA* Algorithm]**
 
-A* 에 시간 개념을 도입, 3D 환경에서 동작하게 만든 알고리즘. 적절한 크기의 타임 슬롯(Reservation Table)을 정하면, 무한 루프에 빠지는 일 없이 솔루션을 잘 찾아낸다. 속도는 코드 품질, 로봇의 수, 맵의 복잡도, 시스템 사양에 따라 틀리지만 대체로 좋은 성능을 보여준다. 40x40정도 크기이면 거의 실시간으로 동작한다.  
+A* 에 시간 개념을 도입, 3D 환경에서 동작하게 만든 알고리즘. 적절한 크기의 타임 슬롯(Reservation Table)을 정하면, 무한 루프에 빠지는 일 없이 솔루션을 잘 찾아낸다. 속도는 코드 품질, 로봇의 수, 맵의 복잡도, 시스템 사양에 따라 틀리지만 대체로 좋은 성능을 보여준다. 40x40정도 크기이면 거의 **실시간**으로 동작한다.  
 
 - [Complete Algorithms for Cooperative Pathfinding Problems, 2005년](https://pdfs.semanticscholar.org/1460/61be1affd4af17b8996f1d0316ad147368f5.pdf)
 - [자바로 작성된 코드](https://github.com/igrek51/coop-pathfinder)
@@ -63,8 +63,10 @@ A* 에 시간 개념을 도입, 3D 환경에서 동작하게 만든 알고리즘
 
 **[ECBS]**  
 
-제일 처음으로 검토한 알고리즘이며, 프로젝트 중반까지도 사용했었으나, 혼잡 상황에서 계산량 증가로 실시간 길찾기에 문제점이 많아 결국 폐기  
-
+제일 처음으로 검토한 알고리즘이며, 프로젝트 중반까지도 사용했었으나, 혼잡 상황에서 계산량 증가로 **실시간 길찾기에 문제점이 많아 결국 폐기**  
+  
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0004370214001386-gr014.gif)  
+  
 - [libMultiRobotPlanning - ECBS를 포함한 여러 알고리즘 있음](https://github.com/whoenig/libMultiRobotPlanning)
 
 
