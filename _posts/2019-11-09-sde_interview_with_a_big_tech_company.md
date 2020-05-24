@@ -4,9 +4,9 @@ current: post
 cover: /www.manpower.com.sg/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa29RIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--44f5667a38d92c30cbf0443eb6f7e876fe0d42fc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld2c2QzNKbGMybDZaVWtpRFRrd01IZzFNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3REWlc1MFpYSUdPd2RVT2dsamNtOXdTU0lRT1RBd2VEVXdNQ3N3S3pBR093ZFUiLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--d35b8b0b70faef3c2f9fb225be68ae0633bc41b2/5%20Things%20Not%20To%20Say%20In%20a%20Job%20Interview.png
 navigation: True
 title: SDE Job Interview 후기    
-tags: technology
+tags: interview
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-interview'  
 author: tigim
 ---  
 

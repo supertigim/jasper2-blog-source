@@ -4,9 +4,9 @@ current: post
 title: 캐나에서 2년 생활 회고    
 cover: assets/images/detroit-from-windsor.jpg
 navigation: True
-tags: canada
+tags: abroad
 class: post-template
-subclass: 'post tag-canda'       
+subclass: 'post tag-abroad'       
 date: 2019-04-22 00:00:01
 author: tigim          
 ---  

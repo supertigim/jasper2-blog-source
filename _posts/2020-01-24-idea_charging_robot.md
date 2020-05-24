@@ -4,9 +4,9 @@ current: post
 cover: /www.motorgraph.com/news/photo/201912/24666_77878_2857.jpg
 navigation: True
 title: EV Charging Robot  
-tags: technology
+tags: idea
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-idea' 
 author: tigim
 ---  
 

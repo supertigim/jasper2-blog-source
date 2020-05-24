@@ -1,9 +1,9 @@
 --- 
 layout: post  
 title: 캐나다 IT 시장    
-tags: canada 
+tags: abroad 
 class: post-template
-subclass: 'post tag-canada'        
+subclass: 'post tag-abroad'        
 excerpt: 캐나다 구직 관련 정보 검색해 봄    
 author: tigim        
 ---  

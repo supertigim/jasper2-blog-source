@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Telco에게 UC
-tags: technology  
+tags: tech.strategy  
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-tech.strategy'  
 author: tigim
 ---
 

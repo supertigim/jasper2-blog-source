@@ -4,9 +4,9 @@ current: post
 cover: /cdn.cloudelicious.net/wp-content/uploads/feature_architect-role.jpg
 navigation: True
 title: IT 관련 잡다한 지식 정리   
-tags: technology
+tags: technolinterviewogy
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-interview'  
 author: tigim
 ---  
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Monthly Tech Research
-tags: technology  
+tags: tech.strategy  
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-restech.strategyearch'  
 author: tigim
 ---
 

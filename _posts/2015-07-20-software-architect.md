@@ -1,9 +1,9 @@
 --- 
 layout: post 
 title: Things every S/W architect should know 
-tags: technology  
+tags: tech.strategy  
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-managemtech.strategyent'  
 author: tigim
 ---
 

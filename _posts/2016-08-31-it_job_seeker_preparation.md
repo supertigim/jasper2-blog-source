@@ -1,9 +1,9 @@
 --- 
 layout: post  
 title: 캐사사 올리려고 정리했던 글    
-tags: canada 
+tags: abroad 
 class: post-template
-subclass: 'post tag-canada'     
+subclass: 'post tag-abroad'     
 excerpt: 캐나다로 출국 전 한국에서 구직 준비    
 author: tigim        
 ---  

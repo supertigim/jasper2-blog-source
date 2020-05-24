@@ -1,9 +1,9 @@
 --- 
 layout: post  
 title: 일본 이민?    
-tags: life  
+tags: abroad  
 class: post-template
-subclass: 'post tag-life'       
+subclass: 'post tag-abroad'       
 excerpt: 오키나와 여행 휴유증 - 일본에 살면 어떨까?      
 author: tigim       
 ---  

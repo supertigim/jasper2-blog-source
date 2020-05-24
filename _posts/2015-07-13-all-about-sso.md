@@ -1,9 +1,9 @@
 --- 
 layout: post 
 title: 플랫폼 개발을 위한 Single Sign On (SSO)  
-tags: technology  
+tags: tech.strategy  
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-tech.strategy'  
 author: tigim
 ---  
 

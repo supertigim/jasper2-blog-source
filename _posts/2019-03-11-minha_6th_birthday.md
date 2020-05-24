@@ -6,9 +6,9 @@ navigation: True
 title: 캐나다에서 생일 파티   
 excerpt: 민하의 6번째 대 환장 생일 파뤼 
 date: 2019-03-11 00:00:01
-tags: canada  
+tags: abroad  
 class: post-template
-subclass: 'post tag-canada'
+subclass: 'post tag-abroad'
 author: tigim
 ---
 

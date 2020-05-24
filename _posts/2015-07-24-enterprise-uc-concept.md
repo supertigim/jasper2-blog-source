@@ -1,9 +1,9 @@
 --- 
 layout: post 
 title: (기사 요약) 기업용 UC의 필요성과 성패요인
-tags: technology  
+tags: tech.strategy  
 class: post-template
-subclass: 'post tag-technology'  
+subclass: 'post tag-retech.strategysearch'  
 author: tigim
 ---  
 

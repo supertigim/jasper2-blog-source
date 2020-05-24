@@ -1,9 +1,9 @@
 --- 
 layout: post  
 title: 캐나다 이민/유학 관련 정보    
-tags: canada  
+tags: abroad  
 class: post-template
-subclass: 'post tag-canada'  
+subclass: 'post tag-abroad'  
 excerpt: 구글링으로 모은 정보 정리   
 author: tigim         
 ---  
