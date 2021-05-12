@@ -1,3 +1,19 @@
+## 업데이트 (21.05.12)
+
+최신 맥 OS에서 jekyll 설치 문제 해결 방법  
+
+- [Jasper 사이트](https://github.com/jekyller/jasper2)에서 업데이트: gemfile 중요  
+- **bundle add webrick** 을 해야 정상적으로 jekyll이 동작한다.  
+
+```
+    # 테스트   
+    bundle exec jekyll serve  
+
+    # 빌드   
+    bundle exec jekyll build  
+```
+
+
 ## Jasper2
 
 [![Build Status](https://travis-ci.org/jekyller/jasper2.svg?branch=master)](https://travis-ci.org/jekyller/jasper2)
@@ -64,13 +80,6 @@ are generated for you and pushed to *gh-pages*. Also you get to know if everythi
 still fine with your site builds. Don't hesitate to contact me if you still have any
 issues (see below about issue tracking).
 
-```
-    # 테스트   
-    bundle exec jekyll serve  
-
-    # 빌드   
-    bundle exec jekyll build  
-```
 
 ### Author Pages
 
